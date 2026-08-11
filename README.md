@@ -103,14 +103,6 @@ This site is deployed on **Vercel**:
 - Image alt text for accessibility
 - Structured heading hierarchy (H1, H2, H3)
 
-## 💼 Client Information
-
-- **Agency Name**: Zillopia
-- **Location**: Dubai, UAE
-- **Specialization**: Off-market luxury real estate
-- **Contact**: concierge@zillopia.com | +971 4 000 0000
-- **License**: RERA License No. 448892
-
 ## 🎬 Animations & Micro-Interactions
 
 - Button hover: Color shift, shadow, subtle scale (1.03x)
